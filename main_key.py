@@ -1,3 +1,4 @@
+/Credits to rt_78
 import keyboard
 import smtplib
 from threading import Timer
